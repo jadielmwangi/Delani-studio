@@ -1,0 +1,104 @@
+ nav{
+    text-align: right;
+    font-weight: 800;                   
+    font-size: x-large;
+    font-style: normal;
+    background-color: antiquewhite;
+    background-attachment: fixed;
+    position: fixed;
+    width: 100%;
+}
+nav li{
+    padding-bottom: 30px;
+    padding-top: 30px;
+    padding-right: 30px;
+    display:inline-block;
+    margin-left: 30px;
+
+}
+nav a:hover{
+    color: red;
+}
+
+/* #page{
+    text-align: center;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 900px;
+}
+#about{
+    text-align: center;
+}
+#service{
+    text-align: center;
+    color: white;
+    
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400px;
+}
+#what{
+float: right;
+}
+#contacts{
+    text-align: center;
+    color: white;
+    X */
+    /* background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 400PX; */
+/* }
+h4{
+    align-items: center;
+}
+
+.bot{
+    left: 0;
+    right: 0;
+    width: 100%;
+    text-align: center;
+    bottom: 0;
+}
+.hh{
+    height: 400vh;
+    
+} */
+#service{
+    background-image: url("/assets/backgrounds/s_image.jpg");
+    color: white;
+    text-align: center;
+}
+
+#contacts{
+    background-image: url("/assets/backgrounds/s_image.jpg");
+    color: white;
+    text-align: center;
+}
+#page{
+    background-image: url("/assets/backgrounds/h_img.jpg");
+    color:white;
+    text-align: center;
+}
+#about{
+    text-align: center;
+}
+#what{
+    text-align: center;
+}
+input{
+    width:250px ;
+    opacity: 0.5;
+}
+.row{
+    margin: 30px;
+}
+.col{
+    margin :20px;
+}
+.what p{
+    display:none;
+}
