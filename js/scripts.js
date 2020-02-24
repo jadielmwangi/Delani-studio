@@ -1,19 +1,25 @@
 
 $(document).ready(function () {
   $(".image1").click(function () {
-    $("#first").slideToggle();
+    $("#peek1").slideToggle();
+    $("#boo1").slideToggle();
   });
 
+
     $(".image2").click(function () {
-      $("#second").slideToggle();
+      $("#peek2").slideToggle();
+        $("#boo2").slideToggle();
   
     });
       $(".image3").click(function () {
-        $("#third").slideToggle();
+        $("#peek3").slideToggle();
+        $("#boo3").slideToggle();
   
       });
+    });
 
 
+    $(document).ready(function () {
   $("#w4").hover(function () {
     $("#port4").toggle()
 

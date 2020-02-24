@@ -1,24 +1,4 @@
- nav{
-    text-align: right;
-    font-weight: 800;                   
-    font-size: x-large;
-    font-style: normal;
-    background-color: antiquewhite;
-    background-attachment: fixed;
-    position: fixed;
-    width: 100%;
-}
-nav li{
-    padding-bottom: 30px;
-    padding-top: 30px;
-    padding-right: 30px;
-    display:inline-block;
-    margin-left: 30px;
-
-}
-nav a:hover{
-    color: red;
-}
+ 
 
 
 #contacts{
@@ -70,7 +50,6 @@ h2,h3{
 input{
     width:250px ;
     opacity: 0.9;
-    /* background: transparent; */
 }
 textarea{
     background: transparent;
@@ -82,14 +61,32 @@ textarea{
     justify-content: center;
     margin-top: 10px;
     display: flex;
-}
-
-.what p{
-    display:none;
+    position: relative;
 }
 
 
-
+#w1{
+    padding-left: 10px;
+}
+#w1{
+    padding-right: 10px;
+}
+#w3{
+padding-left:10PX ;
+}
+#W2{
+    padding-left: 10px;
+}
+#w6{
+    padding-right: 10px;
+}
+#w7{
+    padding-right: 10px;
+}
+#w8{padding-left: 10px;}
+#w5{
+    padding-right: 5px;
+}
   .port{
       position: absolute;
       top: 50%;
@@ -144,4 +141,29 @@ textarea{
     position: relative;
     
     opacity: 0.5;
+}
+
+footer{
+    text-align: center;
+}
+body{
+    align-content: center;
+}
+#peek1{
+    display: show;
+}
+#boo1{
+    display: none;
+}
+#peek2{
+    display: show;
+}
+#boo2{
+    display: none;
+}
+#peek3{
+    display: show;
+}
+#boo3{
+    display: none;
 }
