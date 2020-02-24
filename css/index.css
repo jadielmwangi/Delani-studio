@@ -20,53 +20,14 @@ nav a:hover{
     color: red;
 }
 
-/* #page{
-    text-align: center;
-    
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 900px;
-}
-#about{
-    text-align: center;
-}
-#service{
-    text-align: center;
-    color: white;
-    
-    background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 400px;
-}
-#what{
-float: right;
-}
+
 #contacts{
     text-align: center;
     color: white;
-    X */
-    /* background-position: center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    height: 400PX; */
-/* }
-h4{
-    align-items: center;
-}
-
-.bot{
-    left: 0;
-    right: 0;
-    width: 100%;
-    text-align: center;
-    bottom: 0;
-}
-.hh{
-    height: 400vh;
+    background-position: center;
+    background-repeat:no-repeat;
     
-} */
+}
 h2,h3{
     font-family: 'Fjalla One', ;
     margin-top: 10%;
@@ -105,49 +66,82 @@ h2,h3{
 #about{
     text-align: center;
 }
-#what{
-    text-align: center;
-}
+
 input{
     width:250px ;
     opacity: 0.9;
+    /* background: transparent; */
 }
+textarea{
+    background: transparent;
+}
+
 .row{
     margin: 20px;
+    padding: 20px;
+    justify-content: center;
+    margin-top: 10px;
+    display: flex;
 }
 
 .what p{
     display:none;
 }
-.portimages {
-    /* margin-left:30px ;
-    margin-right: 20px;
-    margin: 20px; */
-    cursor: pointer;
-    color: blue;
-  }
 
-  .portimages:hover {
-    border: brown;
-  }
-  #first,#second,#third{
-      display: none;
-  }
+
+
   .port{
       position: absolute;
       top: 50%;
       bottom: 50%;
       display: none;
-      color:chartreuse;
-      /* background-color: cornsilk; */
-      padding: 10px;
+      background-color: blue;
       text-align: center;
       margin-left: 50%;
-      transform: translate(-50%,-50%);
-      /* border-bottom: blue; */
+      margin-bottom: auto;
+      margin-top: auto;
+      border-bottom: blue;
+      padding: 20px 25px;
       
   }
-  .works:hover {
+  #w4:hover {
       position: relative;
+      
       opacity: 0.5;
   }
+  #w3:hover {
+    position: relative;
+    
+    opacity: 0.3;
+}
+#w2:hover {
+    position: relative;
+    
+    opacity: 0.5;
+}
+#w1:hover {
+    position: relative;
+    
+    opacity: 0.5;
+}
+#w5:hover {
+    position: relative;
+    
+    opacity: 0.5;
+}
+#w6:hover {
+    position: relative;
+    
+    opacity: 0.5;
+}
+
+#w7:hover {
+    position: relative;
+    
+    opacity: 0.5;
+}
+#w8:hover {
+    position: relative;
+    
+    opacity: 0.5;
+}
