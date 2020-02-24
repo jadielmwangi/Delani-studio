@@ -9,9 +9,15 @@
     
 }
 h2,h3{
-    font-family: 'Fjalla One', ;
+    text-align: center;
     margin-top: 10%;
     justify-content: safe-around;
+    font-family: 'Krona One', ;
+
+}
+p{
+    font-family: 'Pathway Gothic One', ;
+
 }
 #service{
     background-image: url("/Image/assets/backgrounds/s_image.jpg");
@@ -49,7 +55,8 @@ h2,h3{
 
 input{
     width:250px ;
-    opacity: 0.9;
+    opacity: 0.5;
+    background: transparent;
 }
 textarea{
     background: transparent;
@@ -92,13 +99,10 @@ padding-left:10PX ;
       top: 50%;
       bottom: 50%;
       display: none;
-      background-color: blue;
       text-align: center;
       margin-left: 50%;
       margin-bottom: auto;
       margin-top: auto;
-      border-bottom: blue;
-      padding: 20px 25px;
       
   }
   #w4:hover {
