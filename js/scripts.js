@@ -1,12 +1,9 @@
 
 
 
-
 $(document).ready(function(){
    $(".image1") .click(function(){
        $("#first").toggle();
-      //  $("#second").toggle();
-      //  $("#third").toggle();
 
    });
    $(".image2") .click(function(){
@@ -18,12 +15,12 @@ $(document).ready(function(){
    
 
 $("#w4") .hover(function(){
-$("#port4") .toggle();
+$("#port4") .toggle()
 
 });
 $("#w3") .hover(function(){
   $("#port3") .toggle();
-  
+  relative
   });
   $("#w2") .hover(function(){
     $("#port2") .toggle();
@@ -55,28 +52,11 @@ $("#w3") .hover(function(){
 
 
 
-
-// $("#develop") .click(function(){
-//     $("image2") .toggle();
-// });
-// $("#image") .click(function(){
-//     $("second") .toggle();
-// });
-// });
-
-// $(document).ready(function(){
-// $("form").submit(function(event){
-//     var name =$("#name").value();
-//     alert("Hey" + name + ",Thanks for reaching to us.We have recieved your message .");
-// });
+$(document).ready(function(){
+$("form").submit(function(event){
+    var name =$("#name").value();
+    alert("Hey" + name + ",Thanks for reaching to us.We have recieved your message .");
+});
 
 
-// });
-
-// $(document).ready(function(){
-//     $("image").hover(function(){
-//       $(this).css("background-color", "black");
-//       }, function(){
-//       $(this).css("background-color", "pink");
-//     });
-//   });
+});
