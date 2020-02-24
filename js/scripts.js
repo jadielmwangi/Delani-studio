@@ -52,12 +52,6 @@ $(document).ready(function () {
 
 
 
-
-
-
-
-
-
  function nameOfUser(submit){
   
     var name = $("input#name").val();
