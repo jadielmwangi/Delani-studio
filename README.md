@@ -20,7 +20,7 @@ Jadiel Mwangi
 * Google fonts to make contents easily visible. 
 
 ## Live link
-* Click to get my Github link.
+* Click to get my Github link. https://jadielmwangi.github.io/Delani-studio/
 * https:
 
 ## Known bags
