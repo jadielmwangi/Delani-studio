@@ -82,7 +82,7 @@ h2,h3{
 }
 
 #contacts{
-    background-image: url("/Image/assets/backgrounds/s_image.jpg");
+    background-image: url("/Image/assets/backgrounds/c_image.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     color: white;
@@ -132,4 +132,22 @@ input{
   }
   #first,#second,#third{
       display: none;
+  }
+  .port{
+      position: absolute;
+      top: 50%;
+      bottom: 50%;
+      display: none;
+      color:chartreuse;
+      /* background-color: cornsilk; */
+      padding: 10px;
+      text-align: center;
+      margin-left: 50%;
+      transform: translate(-50%,-50%);
+      /* border-bottom: blue; */
+      
+  }
+  .works:hover {
+      position: relative;
+      opacity: 0.5;
   }
