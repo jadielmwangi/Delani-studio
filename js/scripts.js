@@ -5,10 +5,17 @@
 $(document).ready(function(){
    $(".image1") .click(function(){
        $("#first").toggle();
-       $("#second").toggle();
-       $("#third").toggle();
+      //  $("#second").toggle();
+      //  $("#third").toggle();
 
    });
+   $(".image2") .click(function(){
+    $("#second").toggle();
+   });
+   $(".image3") .click(function(){
+    $("#third").toggle();
+   });
+   
 });
 
 
@@ -32,10 +39,10 @@ $(document).ready(function(){
 
 // });
 
-$(document).ready(function(){
-    $("image").hover(function(){
-      $(this).css("background-color", "black");
-      }, function(){
-      $(this).css("background-color", "pink");
-    });
-  });
+// $(document).ready(function(){
+//     $("image").hover(function(){
+//       $(this).css("background-color", "black");
+//       }, function(){
+//       $(this).css("background-color", "pink");
+//     });
+//   });
