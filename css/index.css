@@ -130,3 +130,6 @@ input{
   .portimages:hover {
     border: brown;
   }
+  #first,#second,#third{
+      display: none;
+  }
