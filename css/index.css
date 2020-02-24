@@ -101,8 +101,13 @@ padding-left:10PX ;
       display: none;
       text-align: center;
       margin-left: 50%;
+      background-color: cornsilk;
+      border: 5px;
+      color: blue;
+      font-size: 20px;
       margin-bottom: auto;
       margin-top: auto;
+      
       
   }
   #w4:hover {
