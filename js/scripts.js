@@ -1,4 +1,4 @@
-
+//First jQuery
 $(document).ready(function () {
   $(".image1").click(function () {
     $("#peek1").slideToggle();
@@ -18,7 +18,7 @@ $(document).ready(function () {
       });
     });
 
-
+//second jQuery
     $(document).ready(function () {
   $("#w4").hover(function () {
     $("#port4").toggle()
@@ -57,7 +57,7 @@ $(document).ready(function () {
 
 
 
-
+//Js function
  function nameOfUser(submit){
   
     var name = $("input#name").val();

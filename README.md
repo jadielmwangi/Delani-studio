@@ -20,8 +20,8 @@ Jadiel Mwangi
 * Google fonts to make contents easily visible. 
 
 ## Live link
-* Click to get my Github link. https://jadielmwangi.github.io/Delani-studio/
-* https:
+* Click to get my Github link:
+* https://jadielmwangi.github.io/Delani-studio/
 
 ## Known bags
 * Most of socio media icons do not work but we are working in it.
