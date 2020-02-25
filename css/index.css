@@ -1,5 +1,6 @@
- 
-
+ *{
+     overflow-x: hidden;
+ }
 
 #contacts{
     text-align: center;
@@ -72,7 +73,7 @@ textarea{
 }
 
 
-#w1{
+/* #w1{
     padding-left: 10px;
 }
 #w1{
@@ -93,7 +94,8 @@ padding-left:10PX ;
 #w8{padding-left: 10px;}
 #w5{
     padding-right: 5px;
-}
+ } */
+
   .port{
       position: absolute;
       top: 50%;
@@ -102,18 +104,18 @@ padding-left:10PX ;
       text-align: center;
       margin-left: 50%;
       background-color: white;
-      border-radius: 5px;
-      color: white;
+      border: 5px;
+      color: red;
       font-size: 20px;
       margin-bottom: auto;
       margin-top: auto;
-      
-      
+      overflow-x: visible;
+    
   }
   #w4:hover {
       position: relative;
       
-      opacity: 0.5;
+      opacity: 0.3;
   }
   #w3:hover {
     position: relative;
@@ -123,33 +125,33 @@ padding-left:10PX ;
 #w2:hover {
     position: relative;
     
-    opacity: 0.5;
+    opacity: 0.3;
 }
 #w1:hover {
     position: relative;
     
-    opacity: 0.5;
+    opacity: 0.3;
 }
 #w5:hover {
     position: relative;
     
-    opacity: 0.5;
+    opacity: 0.3;
 }
 #w6:hover {
     position: relative;
     
-    opacity: 0.5;
+    opacity: 0.3;
 }
 
 #w7:hover {
     position: relative;
     
-    opacity: 0.5;
+    opacity: 0.3;
 }
 #w8:hover {
     position: relative;
     
-    opacity: 0.5;
+    opacity: 0.3;
 }
 
 footer{
