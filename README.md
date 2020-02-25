@@ -11,6 +11,7 @@ Jadiel Mwangi
 * Navigate to the portfolio folder through cd Documents/Delani-studio.
 * Open the folder in your favourite editor,for vscode,is code . and for atom, atom .
 * Open the index.html in your browser
+
 ## Technologies used
 * HTML to create a webpage framework.
 * CSS used to styles the page.
@@ -22,6 +23,9 @@ Jadiel Mwangi
 ## Live link
 * Click to get my Github link:
 * https://jadielmwangi.github.io/Delani-studio/
+
+## Behaviour Driven Development (BDD)
+* The web page will require the user to fill in his/her name and enter email address.On submit an alert message will pup up and alerts the user that their message has been received.
 
 ## Known bags
 * Most of socio media icons do not work but we are working in it.
