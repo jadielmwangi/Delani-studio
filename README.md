@@ -4,7 +4,7 @@ This Repository contains Delani studio.
 ## Project Author
 Jadiel Mwangi
 ## Project Description 
-* Delaini studio  is a page that provides a platform on which developers can host their projects done and also sell to those who are  interested buyering these projects, also it have contacts section and a footer at the bottom.
+* Delaini studio  is a page that provides a platform on which developers can host their projects done and also sell to those who are  interested buyering these projects, also it have contacts part and a footer at the bottom of the page.
 
 ## Setup Instructions
 * git clone https://github.com/jadielmwangi/Delani-studio  on your terminal.
