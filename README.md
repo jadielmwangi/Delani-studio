@@ -25,7 +25,7 @@ Jadiel Mwangi
 * https://jadielmwangi.github.io/Delani-studio/
 
 ## Behaviour Driven Development (BDD)
-* The web page will require the user to fill in his/her name and enter email address.On submit an alert message will pup up and alerts the user that their message has been received.
+* The web page will require the user to fill in his/her name and enter email address.On submit an alert message will pop up and alerts the user that their message has been received.
 
 ## Known bags
 * Most of socio media icons do not work but we are working in it.

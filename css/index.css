@@ -12,6 +12,7 @@
 h2,h3{
     text-align: center;
     margin-top: 10%;
+    font-weight: bold;
     justify-content: safe-around;
     font-family: 'Krona One', ;
 
@@ -73,28 +74,7 @@ textarea{
 }
 
 
-/* #w1{
-    padding-left: 10px;
-}
-#w1{
-    padding-right: 10px;
-}
-#w3{
-padding-left:10PX ;
-}
-#W2{
-    padding-left: 10px;
-}
-#w6{
-    padding-right: 10px;
-}
-#w7{
-    padding-right: 10px;
-}
-#w8{padding-left: 10px;}
-#w5{
-    padding-right: 5px;
- } */
+
 
   .port{
       position: absolute;
@@ -114,43 +94,43 @@ padding-left:10PX ;
   }
   #w4:hover {
       position: relative;
-      
-      opacity: 0.3;
+      background-color: white;
+      opacity: 0.2;
   }
   #w3:hover {
     position: relative;
-    
-    opacity: 0.3;
+    background-color: white;
+    opacity: 0.2;
 }
 #w2:hover {
     position: relative;
-    
+    background-color: white;
     opacity: 0.3;
 }
 #w1:hover {
     position: relative;
-    
+    background-color: white;
     opacity: 0.3;
 }
 #w5:hover {
     position: relative;
-    
+    background-color: white;
     opacity: 0.3;
 }
 #w6:hover {
     position: relative;
-    
+    background-color: white;
     opacity: 0.3;
 }
 
 #w7:hover {
     position: relative;
-    
+    background-color: white;
     opacity: 0.3;
 }
 #w8:hover {
     position: relative;
-    
+    background-color: white;
     opacity: 0.3;
 }
 
