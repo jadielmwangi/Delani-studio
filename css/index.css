@@ -158,3 +158,9 @@ body{
 #boo3{
     display: none;
 }
+.row img{
+    padding:2%;
+}
+.what{
+    text-align: center;
+}
